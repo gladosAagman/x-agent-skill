@@ -1,0 +1,26 @@
+{
+  "name": "x-agent",
+  "description": "Fifteen Claude skills and two agents that run an X account: posts off 21 hook formulas with a scored hook, a character counter that counts the way X does, threads cut to fit, replies, a profile score, the weekly plan read against X's own published ranking weights and exported to your calendar, DMs, an audit of your analytics export, a humanizer, a virality engine, a voice profiler measured from your own posts, a reply ledger, crisis handling, and a one-command pre-flight.",
+  "version": "2.0.0",
+  "keywords": [
+    "x",
+    "twitter",
+    "threads",
+    "content",
+    "writing",
+    "humanizer",
+    "social",
+    "marketing",
+    "voice",
+    "analytics",
+    "claude-code",
+    "agent-skills"
+  ],
+  "author": {
+    "name": "gladosAagman",
+    "url": "https://github.com/gladosAagman"
+  },
+  "homepage": "https://github.com/gladosAagman/x-agent-skill",
+  "repository": "https://github.com/gladosAagman/x-agent-skill",
+  "license": "MIT"
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "x-agent-skill",
+  "description": "The X agent skill pack for Claude",
+  "plugins": [
+    {
+      "name": "x-agent",
+      "description": "Fifteen Claude skills and two agents that run an X account, including a virality engine, a hook scorer, X's weighted character counter, a voice profiler, a reply ledger and a one-command pre-flight.",
+      "source": "./",
+      "category": "productivity",
+      "version": "2.0.0"
+    }
+  ],
+  "owner": {
+    "name": "gladosAagman",
+    "url": "https://github.com/gladosAagman"
+  }
+}
